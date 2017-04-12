@@ -1,0 +1,5 @@
+[The luxury auto maker]T1 [last year sold 1,214 cars in the U.S]R1 .
+
+[For its employees]T1(T1) [to sign up for the options]R1(T1) , [a college]T1(R1) [also must approve the plan]R1(R1) .
+
+[Men {who have played hard all their lives}P2]T1 [aren't about to change their habits]R1 , [he says]SP1 .
