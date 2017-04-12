@@ -7,6 +7,7 @@ This repository contains code and sample sentences annotated with thematicity to
 ######################
 
 The script them2ssml.py converts a txt file annotated with thematicity to SSML prosody tags.
+To run the script simply execute it using the command: python them2ssml.py "yourpath"/sentences.txt > "yourpath"/"yourResultFilename".txt
 
 ######################
 ## Sample sentences
