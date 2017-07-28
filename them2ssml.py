@@ -63,7 +63,7 @@ def insertProsodyTag(value, result, token, pos, splitWith = "]"):
 	label = "<prosody "+ key + "=\""+ plusValue + "%\">"
 	result.insert(pos,label)
 	wordend = token.split(splitWith)[0]
-	result.append(wordend + "<\\prosody>")
+	result.append(wordend + "</prosody>")
 
 #logging.debug("Processing txt file")
 sentences = infile.split("\n\n")
