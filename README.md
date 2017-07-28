@@ -26,5 +26,5 @@ If you use this software, data or modify the code please cite the following publ
 
 Further references:
 
-     - Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017a). Thematicity-based Prosody Enrichment for a TTS System. Submitted to Interspeech 2017, Stockholm, Sweden.
+     - Domínguez, M., M. Farrús, J. Codina and L. Wanner (2016). Combining acoustic and linguistic features in phrase-oriented prosody prediction. In Proceedings of the 8th International Conference on Speech Prosody, Boston, USA, 2016, pp. 796-800.
      - Domínguez, M., M. Farrús, A. Burga, and L. Wanner (2016). Using hierarchical information structure for prosody prediction in content-to-speech applications. In Proceedings of the 8th International Conference on Speech Prosody, Boston, USA, 2016, pp. 1019–1023.
